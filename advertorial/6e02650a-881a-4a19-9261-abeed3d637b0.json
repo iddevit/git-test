@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "admin tahuna",
-  "lastUpdatedDate": "2023-02-01T21:00:08.454231+08:00",
+  "lastUpdatedDate": "2023-02-01T21:01:35.806256+08:00",
   "code": "AD806",
   "createdDate": "2023-02-01T21:00:08.45061+08:00",
   "provider": {
@@ -11,5 +11,6 @@
   "domain": "advertorial",
   "name": "Berita AD806",
   "id": "6e02650a-881a-4a19-9261-abeed3d637b0",
-  "url": "https://manadopost.com/2023/01/12/berita-ad806.html"
+  "url": "https://manadopost.com/2023/01/12/berita-ad806.html",
+  "status": "Pengajuan ditolak"
 }
